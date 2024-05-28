@@ -1,0 +1,13 @@
+{
+  "name": "issue-event-hub-emulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^5.12.0"
+  }
+}
